@@ -1,0 +1,194 @@
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\obj\Debug\WebServiceUpravnikZgrade.csprojAssemblyReference.cache
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\obj\Debug\WebServiceUpravnikZgrade.csproj.CoreCompileInputs.cache
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\WebServiceUpravnikZgrade.dll.config
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\WebServiceUpravnikZgrade.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\WebServiceUpravnikZgrade.pdb
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\csc.exe
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\csc.exe.config
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\csc.rsp
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\csi.exe
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\csi.exe.config
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\csi.rsp
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\System.AppContext.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\System.Console.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\System.IO.Compression.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\System.IO.Pipes.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\System.Security.Claims.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\System.ValueTuple.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\vbc.exe
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\vbc.exe.config
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\vbc.rsp
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\VBCSCompiler.exe
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\Antlr3.Runtime.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\Newtonsoft.Json.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\System.Net.Http.Formatting.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\System.Web.Helpers.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\System.Web.Http.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\System.Web.Http.WebHost.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\System.Web.Mvc.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\System.Web.Optimization.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\System.Web.Razor.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\System.Web.WebPages.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\System.Web.WebPages.Razor.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\WebGrease.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\Newtonsoft.Json.xml
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\System.Net.Http.Formatting.xml
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\System.Web.Helpers.xml
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\System.Web.Http.xml
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\System.Web.Http.WebHost.xml
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\System.Web.Mvc.xml
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\System.Web.Optimization.xml
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\System.Web.Razor.xml
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\System.Web.WebPages.xml
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\System.Web.WebPages.Razor.xml
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\obj\Debug\WebServiceUpravnikZgrade.csproj.CopyComplete
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\obj\Debug\WebServiceUpravnikZgrade.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\obj\Debug\WebServiceUpravnikZgrade.pdb
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\UpravnikZgrade.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\NHibernate.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\FluentNHibernate.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\Remotion.Linq.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\Remotion.Linq.EagerFetching.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\Iesi.Collections.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\UpravnikZgrade.pdb
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\UpravnikZgrade.dll.config
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\UpravnikZgrade.exe.config
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\NHibernate.xml
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\FluentNHibernate.xml
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\Remotion.Linq.xml
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\Remotion.Linq.EagerFetching.xml
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\Iesi.Collections.xml
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\Oracle.ManagedDataAccess.dll
+C:\Users\vidanovic\Desktop\UpravnikZgrade\WebServiceUpravnikZgrade\bin\Antlr3.Runtime.xml
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\WebServiceUpravnikZgrade.dll.config
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\WebServiceUpravnikZgrade.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\WebServiceUpravnikZgrade.pdb
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\csc.exe
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\csc.exe.config
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\csc.rsp
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\csi.exe
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\csi.exe.config
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\csi.rsp
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\Microsoft.Managed.Core.targets
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\System.AppContext.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\System.Collections.Immutable.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\System.Console.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\System.IO.Compression.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\System.IO.FileSystem.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\System.IO.Pipes.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\System.Reflection.Metadata.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\System.Security.AccessControl.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\System.Security.Claims.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\System.Security.Principal.Windows.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\System.ValueTuple.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\System.Xml.XmlDocument.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\System.Xml.XPath.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\vbc.exe
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\vbc.exe.config
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\vbc.rsp
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\VBCSCompiler.exe
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\roslyn\VBCSCompiler.exe.config
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\Antlr3.Runtime.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\FluentNHibernate.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\Iesi.Collections.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\Microsoft.Web.Infrastructure.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\Newtonsoft.Json.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\NHibernate.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\Oracle.ManagedDataAccess.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\Remotion.Linq.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\Remotion.Linq.EagerFetching.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\System.Net.Http.Formatting.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\System.Web.Helpers.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\System.Web.Http.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\System.Web.Http.WebHost.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\System.Web.Mvc.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\System.Web.Optimization.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\System.Web.Razor.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\System.Web.WebPages.Deployment.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\System.Web.WebPages.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\System.Web.WebPages.Razor.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\UpravnikZgrade.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\WebGrease.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\UpravnikZgrade.pdb
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\UpravnikZgrade.dll.config
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\UpravnikZgrade.exe.config
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\Antlr3.Runtime.xml
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\FluentNHibernate.xml
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\Iesi.Collections.xml
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\NHibernate.xml
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\Remotion.Linq.xml
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\Remotion.Linq.EagerFetching.xml
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\Newtonsoft.Json.xml
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\System.Net.Http.Formatting.xml
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\System.Web.Helpers.xml
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\System.Web.Http.xml
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\System.Web.Http.WebHost.xml
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\System.Web.Mvc.xml
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\System.Web.Optimization.xml
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\System.Web.Razor.xml
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\System.Web.WebPages.xml
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\System.Web.WebPages.Deployment.xml
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\System.Web.WebPages.Razor.xml
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\obj\Debug\WebServiceUpravnikZgrade.csproj.AssemblyReference.cache
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\obj\Debug\WebServiceUpravnikZgrade.csproj.CoreCompileInputs.cache
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\obj\Debug\WebServiceUpravnikZgrade.csproj.CopyComplete
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\obj\Debug\WebServiceUpravnikZgrade.dll
+E:\faks\SBP\Projekat 4.Deo\WebServiceUpravnikZgrade\obj\Debug\WebServiceUpravnikZgrade.pdb

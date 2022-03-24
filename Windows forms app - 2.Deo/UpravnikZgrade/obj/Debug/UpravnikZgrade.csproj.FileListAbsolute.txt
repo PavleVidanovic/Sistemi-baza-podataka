@@ -1,0 +1,55 @@
+C:\Users\Vidanovic\source\repos\UpravnikZgrade\UpravnikZgrade\obj\Debug\UpravnikZgrade.csprojResolveAssemblyReference.cache
+C:\Users\Vidanovic\source\repos\UpravnikZgrade\UpravnikZgrade\obj\Debug\UpravnikZgrade.Properties.Resources.resources
+C:\Users\Vidanovic\source\repos\UpravnikZgrade\UpravnikZgrade\obj\Debug\UpravnikZgrade.csproj.GenerateResource.Cache
+C:\Users\Vidanovic\source\repos\UpravnikZgrade\UpravnikZgrade\obj\Debug\UpravnikZgrade.csproj.CoreCompileInputs.cache
+C:\Users\Vidanovic\source\repos\UpravnikZgrade\UpravnikZgrade\bin\Debug\UpravnikZgrade.exe.config
+C:\Users\Vidanovic\source\repos\UpravnikZgrade\UpravnikZgrade\bin\Debug\UpravnikZgrade.exe
+C:\Users\Vidanovic\source\repos\UpravnikZgrade\UpravnikZgrade\bin\Debug\UpravnikZgrade.pdb
+C:\Users\Vidanovic\source\repos\UpravnikZgrade\UpravnikZgrade\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Vidanovic\source\repos\UpravnikZgrade\UpravnikZgrade\bin\Debug\FluentNHibernate.dll
+C:\Users\Vidanovic\source\repos\UpravnikZgrade\UpravnikZgrade\bin\Debug\Iesi.Collections.dll
+C:\Users\Vidanovic\source\repos\UpravnikZgrade\UpravnikZgrade\bin\Debug\NHibernate.dll
+C:\Users\Vidanovic\source\repos\UpravnikZgrade\UpravnikZgrade\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Vidanovic\source\repos\UpravnikZgrade\UpravnikZgrade\bin\Debug\Remotion.Linq.dll
+C:\Users\Vidanovic\source\repos\UpravnikZgrade\UpravnikZgrade\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Vidanovic\source\repos\UpravnikZgrade\UpravnikZgrade\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Vidanovic\source\repos\UpravnikZgrade\UpravnikZgrade\bin\Debug\FluentNHibernate.xml
+C:\Users\Vidanovic\source\repos\UpravnikZgrade\UpravnikZgrade\bin\Debug\Iesi.Collections.xml
+C:\Users\Vidanovic\source\repos\UpravnikZgrade\UpravnikZgrade\bin\Debug\NHibernate.xml
+C:\Users\Vidanovic\source\repos\UpravnikZgrade\UpravnikZgrade\bin\Debug\Remotion.Linq.xml
+C:\Users\Vidanovic\source\repos\UpravnikZgrade\UpravnikZgrade\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Vidanovic\source\repos\UpravnikZgrade\UpravnikZgrade\obj\Debug\UpravnikZgrade.exe
+C:\Users\Vidanovic\source\repos\UpravnikZgrade\UpravnikZgrade\obj\Debug\UpravnikZgrade.pdb
+C:\Users\Vidanovic\source\repos\UpravnikZgrade\UpravnikZgrade\obj\Debug\UpravnikZgrade.Forme.Form1.resources
+C:\Users\Vidanovic\source\repos\UpravnikZgrade\UpravnikZgrade\obj\Debug\UpravnikZgrade.Forme.UpravniciForma.resources
+C:\Users\Vidanovic\source\repos\UpravnikZgrade\UpravnikZgrade\obj\Debug\UpravnikZgrade.Forme.DodajUpravnikaForma.resources
+C:\Users\Vidanovic\source\repos\UpravnikZgrade\UpravnikZgrade\obj\Debug\UpravnikZgrade.Forme.ZgradeForma.resources
+C:\Users\Vidanovic\source\repos\UpravnikZgrade\UpravnikZgrade\obj\Debug\UpravnikZgrade.Forme.VlasniciForma.resources
+E:\faks\SBP\Projekat 3.Deo SBP\UpravnikZgrade\bin\Debug\UpravnikZgrade.exe.config
+E:\faks\SBP\Projekat 3.Deo SBP\UpravnikZgrade\bin\Debug\UpravnikZgrade.exe
+E:\faks\SBP\Projekat 3.Deo SBP\UpravnikZgrade\bin\Debug\UpravnikZgrade.pdb
+E:\faks\SBP\Projekat 3.Deo SBP\UpravnikZgrade\bin\Debug\Antlr3.Runtime.dll
+E:\faks\SBP\Projekat 3.Deo SBP\UpravnikZgrade\bin\Debug\FluentNHibernate.dll
+E:\faks\SBP\Projekat 3.Deo SBP\UpravnikZgrade\bin\Debug\Iesi.Collections.dll
+E:\faks\SBP\Projekat 3.Deo SBP\UpravnikZgrade\bin\Debug\NHibernate.dll
+E:\faks\SBP\Projekat 3.Deo SBP\UpravnikZgrade\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\faks\SBP\Projekat 3.Deo SBP\UpravnikZgrade\bin\Debug\Remotion.Linq.dll
+E:\faks\SBP\Projekat 3.Deo SBP\UpravnikZgrade\bin\Debug\Remotion.Linq.EagerFetching.dll
+E:\faks\SBP\Projekat 3.Deo SBP\UpravnikZgrade\bin\Debug\Antlr3.Runtime.xml
+E:\faks\SBP\Projekat 3.Deo SBP\UpravnikZgrade\bin\Debug\FluentNHibernate.xml
+E:\faks\SBP\Projekat 3.Deo SBP\UpravnikZgrade\bin\Debug\Iesi.Collections.xml
+E:\faks\SBP\Projekat 3.Deo SBP\UpravnikZgrade\bin\Debug\NHibernate.xml
+E:\faks\SBP\Projekat 3.Deo SBP\UpravnikZgrade\bin\Debug\Remotion.Linq.xml
+E:\faks\SBP\Projekat 3.Deo SBP\UpravnikZgrade\bin\Debug\Remotion.Linq.EagerFetching.xml
+E:\faks\SBP\Projekat 3.Deo SBP\UpravnikZgrade\obj\Debug\UpravnikZgrade.csproj.AssemblyReference.cache
+E:\faks\SBP\Projekat 3.Deo SBP\UpravnikZgrade\obj\Debug\UpravnikZgrade.Forme.DodajUpravnikaForma.resources
+E:\faks\SBP\Projekat 3.Deo SBP\UpravnikZgrade\obj\Debug\UpravnikZgrade.Forme.Form1.resources
+E:\faks\SBP\Projekat 3.Deo SBP\UpravnikZgrade\obj\Debug\UpravnikZgrade.Forme.UpravniciForma.resources
+E:\faks\SBP\Projekat 3.Deo SBP\UpravnikZgrade\obj\Debug\UpravnikZgrade.Forme.VlasniciForma.resources
+E:\faks\SBP\Projekat 3.Deo SBP\UpravnikZgrade\obj\Debug\UpravnikZgrade.Forme.ZgradeForma.resources
+E:\faks\SBP\Projekat 3.Deo SBP\UpravnikZgrade\obj\Debug\UpravnikZgrade.Properties.Resources.resources
+E:\faks\SBP\Projekat 3.Deo SBP\UpravnikZgrade\obj\Debug\UpravnikZgrade.csproj.GenerateResource.cache
+E:\faks\SBP\Projekat 3.Deo SBP\UpravnikZgrade\obj\Debug\UpravnikZgrade.csproj.CoreCompileInputs.cache
+E:\faks\SBP\Projekat 3.Deo SBP\UpravnikZgrade\obj\Debug\UpravnikZgrade.csproj.CopyComplete
+E:\faks\SBP\Projekat 3.Deo SBP\UpravnikZgrade\obj\Debug\UpravnikZgrade.exe
+E:\faks\SBP\Projekat 3.Deo SBP\UpravnikZgrade\obj\Debug\UpravnikZgrade.pdb
