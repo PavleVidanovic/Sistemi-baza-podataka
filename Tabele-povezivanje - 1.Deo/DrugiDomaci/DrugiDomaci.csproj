@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F3741799-2A94-4344-A921-008513C105AF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DrugiDomaci</RootNamespace>
+    <AssemblyName>DrugiDomaci</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Antlr3.Runtime, Version=3.5.0.2, Culture=neutral, PublicKeyToken=eb42632606e9261f, processorArchitecture=MSIL">
+      <HintPath>..\packages\Antlr3.Runtime.3.5.2-rc1\lib\net40-client\Antlr3.Runtime.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="FluentNHibernate, Version=2.0.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FluentNHibernate.2.0.3.0\lib\net40\FluentNHibernate.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Iesi.Collections, Version=4.0.0.0, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Iesi.Collections.4.0.0.4000\lib\net40\Iesi.Collections.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NHibernate, Version=4.0.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\NHibernate.4.0.0.4000\lib\net40\NHibernate.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.121.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <HintPath>..\packages\Oracle.ManagedDataAccess.12.1.2400\lib\net40\Oracle.ManagedDataAccess.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Remotion.Linq, Version=2.2.0.0, Culture=neutral, PublicKeyToken=fee00910d6e5f53b, processorArchitecture=MSIL">
+      <HintPath>..\packages\Remotion.Linq.2.2.0\lib\net45\Remotion.Linq.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Remotion.Linq.EagerFetching, Version=2.2.0.0, Culture=neutral, PublicKeyToken=fee00910d6e5f53b, processorArchitecture=MSIL">
+      <HintPath>..\packages\Remotion.Linq.EagerFetching.2.2.0\lib\net45\Remotion.Linq.EagerFetching.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataLayer.cs" />
+    <Compile Include="Forme\BrisiORGForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\BrisiORGForma.Designer.cs">
+      <DependentUpon>BrisiORGForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\DodajSahistuForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\DodajSahistuForma.Designer.cs">
+      <DependentUpon>DodajSahistuForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Entiteti\Organizator.cs" />
+    <Compile Include="Entiteti\Organizuje.cs" />
+    <Compile Include="Entiteti\Partija.cs" />
+    <Compile Include="Entiteti\Potez.cs" />
+    <Compile Include="Entiteti\Sahista.cs" />
+    <Compile Include="Entiteti\SponzoriTurnira.cs" />
+    <Compile Include="Entiteti\Sudija.cs" />
+    <Compile Include="Entiteti\Turnir.cs" />
+    <Compile Include="Entiteti\Ucestvuje.cs" />
+    <Compile Include="Forme\DodajORGForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\DodajORGForma.Designer.cs">
+      <DependentUpon>DodajORGForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\MenjajORGForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\MenjajORGForma.Designer.cs">
+      <DependentUpon>MenjajORGForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\OrganizatorForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\OrganizatorForma.Designer.cs">
+      <DependentUpon>OrganizatorForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mapiranja\OrganizatorMapiranje.cs" />
+    <Compile Include="Mapiranja\OrganizujeMapiranje.cs" />
+    <Compile Include="Mapiranja\PartijaMapiranje.cs" />
+    <Compile Include="Mapiranja\PotezMapiranje.cs" />
+    <Compile Include="Mapiranja\SahistaMapiranje.cs" />
+    <Compile Include="Mapiranja\SponzoriTurniraMapiranje.cs" />
+    <Compile Include="Mapiranja\SudijaMapiranje.cs" />
+    <Compile Include="Mapiranja\TurnirMapiranje.cs" />
+    <Compile Include="Mapiranja\UcestvujeMapiranje.cs" />
+    <Compile Include="Forme\proba.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\proba.Designer.cs">
+      <DependentUpon>proba.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Forme\SahistiForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\SahistiForma.Designer.cs">
+      <DependentUpon>SahistiForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\SponzoriForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\SponzoriForma.Designer.cs">
+      <DependentUpon>SponzoriForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\TurniriForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\TurniriForma.Designer.cs">
+      <DependentUpon>TurniriForma.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forme\BrisiORGForma.resx">
+      <DependentUpon>BrisiORGForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\DodajORGForma.resx">
+      <DependentUpon>DodajORGForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\DodajSahistuForma.resx">
+      <DependentUpon>DodajSahistuForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\MenjajORGForma.resx">
+      <DependentUpon>MenjajORGForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\OrganizatorForma.resx">
+      <DependentUpon>OrganizatorForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\proba.resx">
+      <DependentUpon>proba.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Forme\SahistiForma.resx">
+      <DependentUpon>SahistiForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\SponzoriForma.resx">
+      <DependentUpon>SponzoriForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\TurniriForma.resx">
+      <DependentUpon>TurniriForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="photo-1523875194681-bedd468c58bf.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="banner-chess.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CHESS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="chess_pieces.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Chess-game.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Sponsor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Sponsor %281%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

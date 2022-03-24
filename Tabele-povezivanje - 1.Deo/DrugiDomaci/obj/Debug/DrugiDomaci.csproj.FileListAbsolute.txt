@@ -1,0 +1,65 @@
+c:\users\vukotic\documents\visual studio 2015\Projects\DrugiDomaci\DrugiDomaci\bin\Debug\DrugiDomaci.exe.config
+c:\users\vukotic\documents\visual studio 2015\Projects\DrugiDomaci\DrugiDomaci\bin\Debug\DrugiDomaci.exe
+c:\users\vukotic\documents\visual studio 2015\Projects\DrugiDomaci\DrugiDomaci\bin\Debug\DrugiDomaci.pdb
+c:\users\vukotic\documents\visual studio 2015\Projects\DrugiDomaci\DrugiDomaci\bin\Debug\Antlr3.Runtime.dll
+c:\users\vukotic\documents\visual studio 2015\Projects\DrugiDomaci\DrugiDomaci\bin\Debug\FluentNHibernate.dll
+c:\users\vukotic\documents\visual studio 2015\Projects\DrugiDomaci\DrugiDomaci\bin\Debug\Iesi.Collections.dll
+c:\users\vukotic\documents\visual studio 2015\Projects\DrugiDomaci\DrugiDomaci\bin\Debug\NHibernate.dll
+c:\users\vukotic\documents\visual studio 2015\Projects\DrugiDomaci\DrugiDomaci\bin\Debug\Oracle.ManagedDataAccess.dll
+c:\users\vukotic\documents\visual studio 2015\Projects\DrugiDomaci\DrugiDomaci\bin\Debug\Remotion.Linq.dll
+c:\users\vukotic\documents\visual studio 2015\Projects\DrugiDomaci\DrugiDomaci\bin\Debug\Remotion.Linq.EagerFetching.dll
+c:\users\vukotic\documents\visual studio 2015\Projects\DrugiDomaci\DrugiDomaci\bin\Debug\Antlr3.Runtime.xml
+c:\users\vukotic\documents\visual studio 2015\Projects\DrugiDomaci\DrugiDomaci\bin\Debug\FluentNHibernate.pdb
+c:\users\vukotic\documents\visual studio 2015\Projects\DrugiDomaci\DrugiDomaci\bin\Debug\FluentNHibernate.xml
+c:\users\vukotic\documents\visual studio 2015\Projects\DrugiDomaci\DrugiDomaci\bin\Debug\Iesi.Collections.xml
+c:\users\vukotic\documents\visual studio 2015\Projects\DrugiDomaci\DrugiDomaci\bin\Debug\NHibernate.xml
+c:\users\vukotic\documents\visual studio 2015\Projects\DrugiDomaci\DrugiDomaci\bin\Debug\Remotion.Linq.xml
+c:\users\vukotic\documents\visual studio 2015\Projects\DrugiDomaci\DrugiDomaci\bin\Debug\Remotion.Linq.EagerFetching.xml
+c:\users\vukotic\documents\visual studio 2015\Projects\DrugiDomaci\DrugiDomaci\obj\Debug\DrugiDomaci.csprojResolveAssemblyReference.cache
+c:\users\vukotic\documents\visual studio 2015\Projects\DrugiDomaci\DrugiDomaci\obj\Debug\DrugiDomaci.Form1.resources
+c:\users\vukotic\documents\visual studio 2015\Projects\DrugiDomaci\DrugiDomaci\obj\Debug\DrugiDomaci.Properties.Resources.resources
+c:\users\vukotic\documents\visual studio 2015\Projects\DrugiDomaci\DrugiDomaci\obj\Debug\DrugiDomaci.csproj.GenerateResource.Cache
+c:\users\vukotic\documents\visual studio 2015\Projects\DrugiDomaci\DrugiDomaci\obj\Debug\DrugiDomaci.exe
+c:\users\vukotic\documents\visual studio 2015\Projects\DrugiDomaci\DrugiDomaci\obj\Debug\DrugiDomaci.pdb
+C:\Users\Vukotic\Documents\Visual Studio 2015\Projects\DrugiDomaci\DrugiDomaci\obj\Debug\DrugiDomaci.TurniriForma.resources
+C:\Users\Vukotic\Documents\Visual Studio 2015\Projects\DrugiDomaci\DrugiDomaci\obj\Debug\DrugiDomaci.SahistiForma.resources
+C:\Users\Vukotic\Documents\Visual Studio 2015\Projects\DrugiDomaci\DrugiDomaci\obj\Debug\DrugiDomaci.DodajSahistuForma.resources
+C:\Users\Vukotic\Documents\Visual Studio 2015\Projects\DrugiDomaci\DrugiDomaci\obj\Debug\DrugiDomaci.SponzoriForma.resources
+C:\Users\Vukotic\Documents\Visual Studio 2015\Projects\DrugiDomaci\DrugiDomaci\obj\Debug\DrugiDomaci.proba.resources
+C:\Users\Vukotic\Documents\Visual Studio 2015\Projects\DrugiDomaci\DrugiDomaci\obj\Debug\DrugiDomaci.Forme.OrganizatorForma.resources
+C:\Users\Vukotic\Documents\Visual Studio 2015\Projects\DrugiDomaci\DrugiDomaci\obj\Debug\DrugiDomaci.Forme.DodajORGForma.resources
+C:\Users\Vukotic\Documents\Visual Studio 2015\Projects\DrugiDomaci\DrugiDomaci\obj\Debug\DrugiDomaci.Forme.MenjajORGForma.resources
+C:\Users\Vukotic\Documents\Visual Studio 2015\Projects\DrugiDomaci\DrugiDomaci\obj\Debug\DrugiDomaci.Forme.BrisiORGForma.resources
+E:\SBP\DrugiDomaci\DrugiDomaci\bin\Debug\DrugiDomaci.exe.config
+E:\SBP\DrugiDomaci\DrugiDomaci\bin\Debug\DrugiDomaci.exe
+E:\SBP\DrugiDomaci\DrugiDomaci\bin\Debug\DrugiDomaci.pdb
+E:\SBP\DrugiDomaci\DrugiDomaci\bin\Debug\Antlr3.Runtime.dll
+E:\SBP\DrugiDomaci\DrugiDomaci\bin\Debug\FluentNHibernate.dll
+E:\SBP\DrugiDomaci\DrugiDomaci\bin\Debug\Iesi.Collections.dll
+E:\SBP\DrugiDomaci\DrugiDomaci\bin\Debug\NHibernate.dll
+E:\SBP\DrugiDomaci\DrugiDomaci\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\SBP\DrugiDomaci\DrugiDomaci\bin\Debug\Remotion.Linq.dll
+E:\SBP\DrugiDomaci\DrugiDomaci\bin\Debug\Remotion.Linq.EagerFetching.dll
+E:\SBP\DrugiDomaci\DrugiDomaci\bin\Debug\Antlr3.Runtime.xml
+E:\SBP\DrugiDomaci\DrugiDomaci\bin\Debug\FluentNHibernate.pdb
+E:\SBP\DrugiDomaci\DrugiDomaci\bin\Debug\FluentNHibernate.xml
+E:\SBP\DrugiDomaci\DrugiDomaci\bin\Debug\Iesi.Collections.xml
+E:\SBP\DrugiDomaci\DrugiDomaci\bin\Debug\NHibernate.xml
+E:\SBP\DrugiDomaci\DrugiDomaci\bin\Debug\Remotion.Linq.xml
+E:\SBP\DrugiDomaci\DrugiDomaci\bin\Debug\Remotion.Linq.EagerFetching.xml
+E:\SBP\DrugiDomaci\DrugiDomaci\obj\Debug\DrugiDomaci.csprojResolveAssemblyReference.cache
+E:\SBP\DrugiDomaci\DrugiDomaci\obj\Debug\DrugiDomaci.Forme.BrisiORGForma.resources
+E:\SBP\DrugiDomaci\DrugiDomaci\obj\Debug\DrugiDomaci.Forme.DodajORGForma.resources
+E:\SBP\DrugiDomaci\DrugiDomaci\obj\Debug\DrugiDomaci.DodajSahistuForma.resources
+E:\SBP\DrugiDomaci\DrugiDomaci\obj\Debug\DrugiDomaci.Form1.resources
+E:\SBP\DrugiDomaci\DrugiDomaci\obj\Debug\DrugiDomaci.Forme.MenjajORGForma.resources
+E:\SBP\DrugiDomaci\DrugiDomaci\obj\Debug\DrugiDomaci.Forme.OrganizatorForma.resources
+E:\SBP\DrugiDomaci\DrugiDomaci\obj\Debug\DrugiDomaci.proba.resources
+E:\SBP\DrugiDomaci\DrugiDomaci\obj\Debug\DrugiDomaci.Properties.Resources.resources
+E:\SBP\DrugiDomaci\DrugiDomaci\obj\Debug\DrugiDomaci.SahistiForma.resources
+E:\SBP\DrugiDomaci\DrugiDomaci\obj\Debug\DrugiDomaci.SponzoriForma.resources
+E:\SBP\DrugiDomaci\DrugiDomaci\obj\Debug\DrugiDomaci.TurniriForma.resources
+E:\SBP\DrugiDomaci\DrugiDomaci\obj\Debug\DrugiDomaci.csproj.GenerateResource.Cache
+E:\SBP\DrugiDomaci\DrugiDomaci\obj\Debug\DrugiDomaci.csproj.CoreCompileInputs.cache
+E:\SBP\DrugiDomaci\DrugiDomaci\obj\Debug\DrugiDomaci.exe
+E:\SBP\DrugiDomaci\DrugiDomaci\obj\Debug\DrugiDomaci.pdb
